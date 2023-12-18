@@ -1,0 +1,49 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "id": 4,
+      "content": "Mongoose is javascript library for Mongo DB",
+      "important": true
+    },
+    {
+      "content": "Aye ayyayyo",
+      "importance": false,
+      "id": 5
+    },
+    {
+      "content": "aye amadi",
+      "importance": true,
+      "id": 6
+    },
+    {
+      "content": "ae adayi",
+      "importance": false,
+      "id": 7
+    },
+    {
+      "content": "ae amayi",
+      "importance": true,
+      "id": 8
+    },
+    {
+      "content": "tana na ne na ne",
+      "importance": true,
+      "id": 9
+    }
+  ]
+}
